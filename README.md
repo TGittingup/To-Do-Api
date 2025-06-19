@@ -13,14 +13,14 @@ A basic CRUD API for managing tasks in a to-do list, built using C# and ASP.NET 
 
 ## 🌐 Live Demo
 
-- [Live API Endpoint](https://todoapifinalised-bcdyaqc8d5cyhcgf.canadacentral-01.azurewebsites.net/index.html)
+(https://todoapifinalised-bcdyaqc8d5cyhcgf.canadacentral-01.azurewebsites.net/index.html)
 
 ## 🛠 Technologies Used
 
 - C#
 - ASP.NET Core
 - Entity Framework Core
-- SQLite (optional)
+- SQLite 
 - Swagger for testing
 
 ## 🚀 Getting Started
